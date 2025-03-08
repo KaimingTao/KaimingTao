@@ -1,17 +1,19 @@
+## Projects
+
+- [Think Kendo](https://github.com/KaimingTao/Think-Kendo)
+- [Good pieces](https://github.com/KaimingTao/Good-pieces)
+- [Elementary](https://github.com/KaimingTao/elementary)
+
+## Hobby
+
+- Kendo (2D)
+- Retro computing and Games
+
+## Publications
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=sjXRkq4AAAAJ)
+
+
+----
+
 Kaiming means open-minded.
-
-
-<!--
-**KaimingTao/KaimingTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
