@@ -16,4 +16,4 @@
 
 ----
 
-Kaiming means open-minded.
+Kaiming means open-minded, I'd prefer to keep a clear mind.
