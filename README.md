@@ -8,7 +8,8 @@
 ## Hobby
 
 - Kendo (2D)
-- Retro computing and Games
+- History
+- Retro computing
 
 ## Publications
 
