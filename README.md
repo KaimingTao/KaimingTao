@@ -2,8 +2,6 @@
 
 - [Elementary](https://github.com/KaimingTao/elementary)
 - [Think Kendo](https://github.com/KaimingTao/Think-Kendo)
-- [Good pieces](https://github.com/KaimingTao/Good-pieces)
-
 
 ## Hobby
 
