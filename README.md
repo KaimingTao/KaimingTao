@@ -12,6 +12,8 @@
 - Kendo (2D)
 - History
 - Retro computing
+- Drawing
+- Music compose
 
 ## Publications
 
