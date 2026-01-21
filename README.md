@@ -27,4 +27,4 @@ https://github.com/KaimingTao/Tools-collection
 
 ----
 
-Kaiming means open-minded, I'd prefer to keep a clear mind.
+Open-minded, and keep a clear mind.
