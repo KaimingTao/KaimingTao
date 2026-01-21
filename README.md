@@ -1,13 +1,18 @@
+## Build tools
+
+https://github.com/KaimingTao/Tools-collection
+
 ## Projects
 
-- [Elementary](https://github.com/KaimingTao/elementary)
 - [Computing engineering notes](https://github.com/KaimingTao/computing-engineering-notes)
 - [LLM implementary technology watch](https://github.com/KaimingTao/LLM-imple-tech-watch)
 - [Coding recipe](https://github.com/KaimingTao/coding-recipe)
 - [Think Kendo](https://github.com/KaimingTao/Think-Kendo)
 - [Virus es](https://github.com/KaimingTao/Virus_es)
+- [Elementary](https://github.com/KaimingTao/elementary)
 
-## Hobby
+
+## Learning
 
 - Kendo (2D)
 - History
