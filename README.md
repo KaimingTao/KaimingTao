@@ -1,4 +1,4 @@
-## Build tools
+## Building tools
 
 - [Tools or small tools I created](https://github.com/KaimingTao/Tools-collection)
 
@@ -11,21 +11,29 @@
 - [Virus es](https://github.com/KaimingTao/Virus_es)
 - [Elementary](https://github.com/KaimingTao/elementary)
 
+## Core Skills
+
+- Distinguish information and noices
+- Make things done
+- Communication and coordination
+- Design workflow
 
 ## Quick solutions
 
 - Keep data from lost
 
-
-## Learning
+## Playing
 
 - Kendo (2D)
-- History
+- Guitar
+  - Music compose
 - Retro computing
 - Drawing
-- Music compose
+- Cooking
 
 ## Experience
+
+TODO
 
 ## Publications
 
